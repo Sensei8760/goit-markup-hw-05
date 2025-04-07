@@ -498,10 +498,10 @@ section {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  margin-bottom: 16px;
+  margin-bottom: px;
 }
 .modal-field {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 .modal-input {
   border: 1px solid rgba(46, 47, 66, 0.4);
@@ -586,7 +586,7 @@ section {
 
 .modal-check-label {
   font-size: 12px;
-
+  line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
   display: flex;
@@ -604,7 +604,7 @@ section {
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   margin-right: 8px;
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
   fill: transparent;
@@ -627,7 +627,7 @@ span {
   margin-bottom: 24px;
 }
 .footer-svg {
-  fill: #fff;
+  fill: #ffffff;
 }
 .footer-form-container {
   margin-left: auto;
@@ -695,7 +695,7 @@ span {
   background: #404bbf;
 }
 .subscribe-btn-icon {
-  fill: #fff;
+  fill: #ffffff;
   margin-left: 16px;
 }
 .privacy {
